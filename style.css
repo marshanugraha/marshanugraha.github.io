@@ -1,0 +1,54 @@
+html {
+    position: relative;
+}
+
+body {
+    margin-top: 30px;
+    margin-bottom: 120px;
+}
+
+.bg-light {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.bg-light img {
+    width: 300px;
+    height: 300px;
+    border: 5px solid #666;
+}
+
+hr {
+    display: inline-block;
+    width: 250px;
+    border-top: 3px solid #999;
+}
+
+section {
+    min-height: 600px;
+}
+
+.contact {
+    min-height: 800px;
+}
+
+.portfolio {
+    background-color: #eee;
+}
+
+.row img {
+    margin: 10px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 120px;
+    background-color: #333;
+}
+
+footer p {
+    color: #aaa;
+    margin-top: 25px;
+}
